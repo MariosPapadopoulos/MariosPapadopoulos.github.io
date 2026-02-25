@@ -2,7 +2,7 @@
 title: "Imperial College Research Computing Day 2025"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/hpc_day_talk
 venue: "Imperial College London"
 date: 2025-04-02
 location: "London, UK"

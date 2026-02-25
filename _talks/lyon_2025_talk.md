@@ -2,7 +2,7 @@
 title: "Invited Talk at Lyon University Hospital"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/lyon_2025_talk
 venue: "Lyon University Hospital"
 date: 2025-09-27
 location: "Lyon, France"
