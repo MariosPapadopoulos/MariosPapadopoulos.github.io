@@ -8,6 +8,4 @@ date: 2025-04-02
 location: "London, UK"
 ---
 
-<!-- [More information here](http://example2.com) -->
-
 Presented a poster describing HPC resource utilization for the deep learning frameworks that I have worked on to tackle Whole Slide Image problems.
