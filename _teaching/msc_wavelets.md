@@ -1,7 +1,7 @@
 ---
 title: "MSc Wavelets Lab"
 collection: teaching
-type: "Workshop"
+type: "Graduate teaching lab"
 permalink: /teaching/msc_wavelets
 venue: "Imperial College London, Department of Electrical and Electronic Engineering"
 date: 2023-03-10
