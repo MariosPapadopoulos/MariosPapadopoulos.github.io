@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Invited Talk at Lyon University Hospital<br />Lyon University Hospital; Lyon, France",
+    45.7578137,
+    4.8320114
   ],
   [
     "Imperial College Research Computing Day 2025<br />Imperial College London; London, UK",
@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />Lyon University Hospital; Lyon, France",
-    45.7578137,
-    4.8320114
+    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
+    34.0536909,
+    -118.242766
   ]
 ];
