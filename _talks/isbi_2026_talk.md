@@ -8,4 +8,4 @@ date: 2026-04-08
 location: "London, UK"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Delivered a talk presenting my accepted paper "Expert Clustering and Knowledge Transfer for Whole Slide Image Classification."
