@@ -1,8 +1,8 @@
 ---
-title: "MSc Wavelets Lab"
+title: "Year 1 Signals & Communications"
 collection: teaching
-type: "Graduate teaching lab"
-permalink: /teaching/msc_wavelets
+type: "Undergraduate course"
+permalink: /teaching/y1_signals
 venue: "Imperial College London, Department of Electrical and Electronic Engineering"
 date: 2025-01-03
 location: "London, UK"
