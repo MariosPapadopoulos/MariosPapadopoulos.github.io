@@ -14,6 +14,7 @@ My work involves exploring and leveraging foundation models for digital patholog
 I am currently affiliated with Imperial College London, where I develop neural network approaches for digital pathology problems.
 
 # News
+- June-September 2026: Joined Roku as an Applied Science intern in Cambridge. 
 - January 2026: Divide-and-Distill paper accepted at IEEE ISBI 2026 for oral presentation.
 - September 2025: Presented my digital pathology research to a team of clinicians and biology researchers at Lyon University Hospital. 
 - June 2025:  Delivered an oral presentation for my paper on digital pathology foundation models at CVIT 2025 in Florence.
